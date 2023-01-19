@@ -7,7 +7,7 @@
 
 ## Contexte
 
-<font color='#007DFF'>23 Juin 2015 - 23:30 | Ukraine</font>
+### 23 Juin 2015 - 23:30 | Ukraine
 
 La guerre du Donbass fait rage depuis le début de l'année dernière. Un accord avait été trouvé en Septembre mais quelqu'un a tiré trop vite et depuis Janvier, les combats recommence à s'intensifier.
 
@@ -26,19 +26,19 @@ Mais ça, c'est pas votre boulot. Votre boulot c'est d'empêcher que l'ennemi no
 
 Il va falloir déstabiliser leurs communications, miner les routes, et faire le ménage avant que le gros des troupes ne partent à l'assaut.
 
-<font color='#007DFF'>Insertion :</font>
+### Insertion :
 Vous êtes insérés _en lisière de la forêt situé au Sud-Est de l'objectif_.
 
-<font color='#007DFF'>Objectifs :</font>
+### Objectifs :
 
 - _Éliminez les potentiels renforts_.
 - Détruire l'antenne radio d'_Adamow_ et celle de _la carrière_).
 - Miner les routes _du Nord-Est_, _du Nord_ et _du Nord-Ouest_. Les marqueurs sont là à titre indicatif, placer les mines où vous voulez, tant qu'elles feront sauter les renforts.
 
-<font color='#007DFF'>Détection :</font>
-Les ennemis ont des oreilles. <font color='#FFEE00'>Si vous parlez trop fort et trop près d'eux, ils vont repéreront</font>. Alors tâchez d'être concentrés.
+### Détection :
+Les ennemis ont des oreilles. ### Si vous parlez trop fort et trop près d'eux, ils vont repéreront. Alors tâchez d'être concentrés.
 
-Lorsque vous avez fini, appelez nous avec la commande radio 0-0-5. On organisera votre extraction (<font color='#FF2222'>l'appel ne marque pas la fin de la mission</font>)
+Lorsque vous avez fini, appelez nous avec la commande radio 0-0-5. On organisera votre extraction (### l'appel ne marque pas la fin de la mission)
 
 ## Crédits
 
